@@ -45,7 +45,7 @@ For Windows there are resources here:
 
 Nearly all of the code for Fighitng Churn With Data should run with any Python 3.x version and all common package versions.
 
-The only packages used that have version dependencies are the `xgoost` and and `shap` packages introduced in the later listings of chapter 9. These packages contain recent updates and  may only be compatible with versions of Python later than 3.9, at the time of this writing. *Note `xgboost` has other installation issues on Windows and Mac platforms, as described below in the section "Installing Virtual Environment and Requirements"*.
+The only packages used that have version dependencies are the `xgboost` and and `shap` packages introduced in the later listings of chapter 9. These packages contain recent updates and  may only be compatible with versions of Python later than 3.9, at the time of this writing. *Note `xgboost` has other installation issues on Windows and Mac platforms, as described below in the section "Installing Virtual Environment and Requirements"*.
 
 Please create an issue in the repository if you find any other instances of package or version incompatibilities.
 
